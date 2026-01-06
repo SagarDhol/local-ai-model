@@ -15,3 +15,11 @@ Questions:
 - Who is MS Dhoni?
 - What role did Dhoni play in cricket?
 - Which team did Dhoni captain?
+
+# Example 3: Nomic Embed Text
+Document: content.txt
+
+Questions:
+- Who are the Avengers?
+- When were the Avengers created?
+- Who were the original Avengers?
