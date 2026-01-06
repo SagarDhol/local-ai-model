@@ -1,0 +1,8 @@
+The LLaMA (Large Language Model Meta AI) is a collection of large language models developed by Meta AI. The models range in size from 7 billion to 65 billion parameters and are designed to be more efficient than previous models while maintaining strong performance on a variety of tasks.
+
+LLaMA models are trained on publicly available datasets and are designed to be more accessible to researchers and developers. The models use a transformer architecture similar to other large language models but with optimizations that allow them to run more efficiently on consumer hardware.
+
+Nomic Embed Text is a high-quality text embedding model that can be used for semantic search, clustering, and other natural language processing tasks. It's designed to work well with both short and long documents and provides state-of-the-art performance on a variety of benchmarks.
+
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It's particularly useful for building large-scale vector search applications.
+

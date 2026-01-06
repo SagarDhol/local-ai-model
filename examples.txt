@@ -1,0 +1,17 @@
+# Example 1: LLaMA Models
+Document: document.txt
+
+Questions:
+- What is the parameter range of LLaMA models?
+- Who developed the LLaMA models?
+- What architecture do LLaMA models use?
+- What makes LLaMA models different from previous models?
+- What type of datasets were LLaMA models trained on?
+
+# Example 2: Nomic Embed Text
+Document: msdhoni.txt
+
+Questions:
+- Who is MS Dhoni?
+- What role did Dhoni play in cricket?
+- Which team did Dhoni captain?
